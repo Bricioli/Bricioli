@@ -1,7 +1,8 @@
 - 👋 Olá, sou Jared Ricioli!
-- 👀 Sou apaixonado em tecnologia e me encontrei na area de desenvolvimento de software, aspirante a dev fullstack, atualmente tenho conhecimentos em PHP, SQL, HTML/CSS, Boostsrap.
-- 🌱 Agora com as férias da universidade vou focar meus estudos em JS e no framework Laravel.
-- 💞️ Estou em busca de uma oportunidade de estágio ou de Dev. Jr. 
+- 👀 Sou apaixonado em tecnologia e me encontrei na area de desenvolvimento de software. 
+- 💻 Dev fullstack na Fix, atualmente trabalho com PHP, Vue, JavaScript, HTML/CSS e SQL.
+- 💾 Tampbem possuo experiência em Angular, TypeScript e Ionic
+- 🌱 Em constante evolução e crescimento!
 - 📫 É facinho falar comigo:
   jaredbricioli@gmail.com, 
   https://www.linkedin.com/in/jaredricioli/,  
