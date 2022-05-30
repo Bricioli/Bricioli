@@ -1,7 +1,7 @@
 - 👋 Olá, sou Jared Ricioli!
 - 👀 Sou apaixonado em tecnologia e me encontrei na area de desenvolvimento de software. 
-- 💻 Dev fullstack na Fix, atualmente trabalho com PHP, Vue, JavaScript, HTML/CSS e SQL.
-- 💾 Tampbem possuo experiência em Angular, TypeScript e Ionic
+- 💻 Dev fullstack pleno, atualmente trabalho com Java com Spring, Angular, Vue, JavaScript, HTML/CSS e SQL.
+- 💾 Tampbem possuo experiência em PHP, TypeScript, Ionic entre outros
 - 🌱 Em constante evolução e crescimento!
 - 📫 É facinho falar comigo:
   jaredbricioli@gmail.com, 
