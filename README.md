@@ -11,7 +11,7 @@
 - Vejo na Programação uma <strong>oportunidade pra transformar</strong> a <strong>forma que as pessoas interagem com o mundo</strong>, e é exatamente isso que busco em tudo que faço, mudar o mundo das pessoas, por isso sempre faço tudo com bastante dedicação e afinco
 </p>
 </br>
-obs: ta bem desatualizado aqui kkk estou dedicando um tempo pra colocar em dia ❤️
+obs: ta bem desatualizado aqui kkk preciso dedicar um tempo pra colocar em dia ❤️
 
  <h2>Minha Stack</h2>
  <div style="display: inline_block">
